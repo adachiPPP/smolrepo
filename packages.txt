@@ -1,3 +1,4 @@
 fastfetch fastfetch.tar.gz
 nano nano.tar.gz
 curl curl.tar.gz
+hyfetch hyfetch.tar.gz
