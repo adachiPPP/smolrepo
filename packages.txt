@@ -2,3 +2,8 @@ fastfetch fastfetch.tar.gz
 nano nano.tar.gz
 curl curl.tar.gz
 hyfetch hyfetch.tar.gz
+neuipc neuipc-0.1-x86_64.tar.gz
+neuswc neuswc-0.1-x86_64.tar.gz
+neuwld neuwld-0.1-x86_64.tar.gz
+neuwm neuwm-0.1-x86_64.tar.gz
+links links.tar.gz
